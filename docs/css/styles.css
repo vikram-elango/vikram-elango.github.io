@@ -22,6 +22,10 @@ p {
   line-height: 1.5;
 }
 
+.nam{
+  font-family: "Montserrat-Black";
+}
+
 .section-heading {
   font-family: "Ubuntu";
   font-size: 3rem;
@@ -32,6 +36,7 @@ p {
 
 .container-fluid{
   padding: 7% 15%;
+  
 }
 
 /* Sections */
@@ -118,6 +123,10 @@ text-align: left;
 
 .icon:hover {
   color: #ff4c68;
+}
+
+.description-1{
+  color: black;
 }
 
 /* Testimonial Section */
